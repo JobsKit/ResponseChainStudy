@@ -1,0 +1,6 @@
+Target dependency graph (3 targets)
+ResponseChainStudy in ResponseChainStudy
+ResponseChainStudyTests in ResponseChainStudy, depends on:
+ResponseChainStudy in ResponseChainStudy (explicit)
+ResponseChainStudyUITests in ResponseChainStudy, depends on:
+ResponseChainStudy in ResponseChainStudy (explicit)
